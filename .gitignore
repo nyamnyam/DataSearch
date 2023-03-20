@@ -1,0 +1,8 @@
+/build/
+/gradlew
+/gradlew.bat
+/gradle/
+/.idea/
+
+
+/src/main/resources/application-keys.yml
