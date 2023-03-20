@@ -1,0 +1,19 @@
+server:
+  port: 8080
+
+spring:
+  datasource:
+    driver-class-name: org.h2.Driver
+    url: jdbc:h2:mem:data-search
+    username: admin
+    password:
+  jpa:
+    database-platform: org.hibernate.dialect.H2Dialect
+    hibernate:
+      ddl-auto: create   # Application Runtime - DB 초기화 및 table 재생성
+    properties:
+      hibernate:
+        format_sql: true
+  config:
+    import:
+      - classpath:/application-keys.yml
