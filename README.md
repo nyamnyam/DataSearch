@@ -4,7 +4,7 @@ Blog Search service using Open API
  - Naver Blog Search Open API
 
 ### jar 파일 다운로드 링크
-https://github.com/nyamnyam/DataSearch/blob/master/DataSearch.jar
+https://github.com/nyamnyam/DataSearch/raw/master/DataSearch.jar
 
 ### 서버 실행
 > $java -jar DataSearch.jar
