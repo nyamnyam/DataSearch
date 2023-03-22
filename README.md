@@ -2,7 +2,6 @@
 Blog Search service using Open API  
  - Kakao Blog Search Open API (default)
  - Naver Blog Search Open API
-
 <br/>
 
 ### jar 파일 다운로드 링크
@@ -79,10 +78,10 @@ Blog Search service using Open API
         "content": [
             {
                 "title": "애기<b>김밥</b> 싸서 야무지게 주말 점심 보냈어요 :-)",
-                "contents": "애기<b>김밥</b>을 싸는 꿀팁 레시피로 주말 점심을 이렇게 또 보냈습니다. 주말마다 뭐 먹일까.. 늘 고민한다면 집<b>김밥</b> 어떠신가요? 어른 재료준비하면서 +1 만큼만 더 준비하면 간단합니다~ 재료는 호불호가 있어 알아서 가감해주세요 :-) 나님은 아무거나 잘먹지만, 최대한 안짜고 안자극을 원해요. 남편은 시금치 극혐...",
-                "url": "http://lalanim.tistory.com/64",
-                "blogName": "라라님 블로그",
-                "postDateTime": "2023-02-28T13:48:05Z"
+                "contents": "애기<b>김밥</b>을 싸는 꿀팁 레시피로 주말 점심을 ...",
+                "url": "http://tistory.com...",
+                "blogName": "님 블로그",
+                "postDateTime": "2023-01-01T01:00:05Z"
             }
         ],
         "pageable": {
