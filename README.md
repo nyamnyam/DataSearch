@@ -3,14 +3,19 @@ Blog Search service using Open API
  - Kakao Blog Search Open API (default)
  - Naver Blog Search Open API
 
+<br/>
+
 ### jar 파일 다운로드 링크
-https://github.com/nyamnyam/DataSearch/raw/master/DataSearch.jar
+> https://github.com/nyamnyam/DataSearch/raw/master/DataSearch.jar
+<br/>
 
 ### 서버 실행
 > $java -jar DataSearch.jar
+<br/>
 
 ### 개발 환경
 > openjdk version "16.0.2"
+<br/>
 
 ### API 기능
 1. 블로그 검색 기능
@@ -20,7 +25,7 @@ https://github.com/nyamnyam/DataSearch/raw/master/DataSearch.jar
 2. 인기 검색어 목록 조회 기능
    1. 가장 많이 검색된 키워드 순서대로 최대 10개 까지의 목록이 조회됩니다.
    2. 검색어 별 횟수도 함께 제공합니다.
-
+<br/>
 
 ## API spec
 
