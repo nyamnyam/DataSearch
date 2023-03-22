@@ -3,6 +3,8 @@ Blog Search service using Open API
  - Kakao Blog Search Open API (default)
  - Naver Blog Search Open API
 
+### jar 파일 다운로드 링크
+https://github.com/nyamnyam/DataSearch/blob/master/DataSearch.jar
 
 ### 서버 실행
 > $java -jar DataSearch.jar
